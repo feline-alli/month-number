@@ -1,6 +1,6 @@
 {
   "name": "month-number",
-  "version": "9002.0.0",
+  "version": "9001.0.6",
   "description": "For when the default month number behavior is just too confusing",
   "main": "index.js",
   "scripts": {
