@@ -1,6 +1,6 @@
 {
   "name": "month-number",
-  "version": "9001.0.5",
+  "version": "9002.0.0",
   "description": "For when the default month number behavior is just too confusing",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,8 @@
     "postinstall": "node install-message.js"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
+  "repository": "https://github.com/feline-alli/month-number",
   "dependencies": {
     "angular": "^1.8.2",
     "five": "^0.8.0",
